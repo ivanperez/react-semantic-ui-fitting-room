@@ -1,6 +1,9 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+
+import "fitting-room-themes/src/index.less";
+import { Button, Segment } from "semantic-ui-react";
 
 class App extends Component {
   render() {
@@ -19,6 +22,9 @@ class App extends Component {
           >
             Learn React
           </a>
+          <Segment>
+            <Button primary>Hello</Button>
+          </Segment>
         </header>
       </div>
     );
