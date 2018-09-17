@@ -1,0 +1,9 @@
+{
+  "name": "fitting-room-themes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-ui-less": "^2.3.3"
+  }
+}

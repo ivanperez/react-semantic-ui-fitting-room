@@ -1,0 +1,9 @@
+{
+  "name": "fitting-room-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-ui-react": "^0.82.5"
+  }
+}
